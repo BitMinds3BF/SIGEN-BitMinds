@@ -1,0 +1,7 @@
+C:\Users\SirMati\source\repos\SIGEN-BitMinds\obj\Debug\net8.0-windows\SIGEN_BitMinds.Aplication.Ventanas.Login.resources
+C:\Users\SirMati\source\repos\SIGEN-BitMinds\obj\Debug\net8.0-windows\SIGEN_BitMinds.Aplication.Ventanas.RegistrarUsuario.resources
+C:\Users\SirMati\source\repos\SIGEN-BitMinds\obj\Debug\net8.0-windows\SIGEN-BitMinds.csproj.GenerateResource.cache
+C:\Users\SirMati\source\repos\SIGEN-BitMinds\obj\Debug\net8.0-windows\SIGEN-BitMinds.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\SirMati\source\repos\SIGEN-BitMinds\obj\Debug\net8.0-windows\SIGEN-BitMinds.AssemblyInfoInputs.cache
+C:\Users\SirMati\source\repos\SIGEN-BitMinds\obj\Debug\net8.0-windows\SIGEN-BitMinds.AssemblyInfo.cs
+C:\Users\SirMati\source\repos\SIGEN-BitMinds\obj\Debug\net8.0-windows\SIGEN-BitMinds.csproj.CoreCompileInputs.cache
